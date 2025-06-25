@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Ruben%20Almeida&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Rúben%20Almeida&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 </div>
 
 <h3 align="center">Mobile & Web Developer | Computer Engineering Student | Portugal 🇵🇹</h3>
