@@ -26,10 +26,12 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RFC995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=28" alt="GitHub Stats" height="170">
-  <img src="https://streak-stats.demolab.com/?user=RFC995&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <div>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RFC995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=28" alt="GitHub Stats" height="170" style="display: inline-block;"/>
+    <img src="https://streak-stats.demolab.com/?user=RFC995&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" style="display: inline-block;"/>
+  </div>
 </div>
+
 
 <h2 align="center">🌐 Connect With Me</h2>
 
